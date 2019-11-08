@@ -1,2 +1,3 @@
 The moon is a satelite, it orbits around the Earth.
 The moon is round
+The moon is not made of cheese.
