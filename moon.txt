@@ -1,1 +1,2 @@
 The moon is a satelite.
+The moon is not made of cheese.
