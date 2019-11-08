@@ -1,1 +1,2 @@
-The moon is a satelite.
+The moon is a satelite, it orbits around the Earth.
+The moon is round
