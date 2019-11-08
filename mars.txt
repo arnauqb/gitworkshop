@@ -1,2 +1,3 @@
 Mars is a planet. 
 Mars is cold and boring.
+Mars is small.
